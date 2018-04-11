@@ -1,5 +1,5 @@
 # TipsOnPython
-## Upgrading pip
+### Upgrading pip
 'conda istall pip'
 
 Scenario: 
